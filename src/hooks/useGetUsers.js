@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 
+// Get and setup users data from JSON file
+
 export default function useGetUsers() {
   const [users, setUsers] = useState(null);
 
