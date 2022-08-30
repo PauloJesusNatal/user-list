@@ -1,0 +1,30 @@
+.user-details {
+    padding: 0 1rem;
+    color: #333;
+}
+
+.user-details-body div {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.user-name {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+}
+  .user-username,
+  .user-email,
+  .user-address,
+  .user-phone,
+  .user-website,
+  .user-company {
+    font-weight: 600;
+    font-size: 1rem;
+    padding-bottom: 0.5rem;
+  }
+
+  
