@@ -1,19 +1,13 @@
-# Getting Started with Create React App
+# Instructions on how to run the app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ensure you have node.js and npm installed on your machine.
 
-## Available Scripts
+clone the project from github. 
 
-In the project directory, you can run:
+Install React Router npm install react-router-dom@6
 
-### `npm start`
+Install npm install react-bootstrap bootstrap
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Install npm install react react-dom leaflet  npm install react-leaflet
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-sdvsdvsdv
+Then run npm run command to run the app and visualise it through localhost. 
