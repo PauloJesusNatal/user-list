@@ -10,4 +10,4 @@ Install npm install react-bootstrap bootstrap.
 
 Install npm install react react-dom leaflet  npm install react-leaflet.
 
-Then run npm run command to run the app and visualise it through localhost. 
+Then run npm start command to run the app and visualise it through localhost. 
